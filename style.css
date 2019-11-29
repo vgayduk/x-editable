@@ -15,3 +15,8 @@
 	color: #dd1144;
 	border-bottom: dashed 1px #dd1144;
 }
+
+.form-control {
+	display: inline-block;
+	width: auto;
+}
